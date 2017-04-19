@@ -1,0 +1,11 @@
+C:\Users\boris\Documents\Visual Studio 2017\Projects\C#\Simple Calculator\Simple Calculator\bin\Debug\Simple Calculator.exe.config
+C:\Users\boris\Documents\Visual Studio 2017\Projects\C#\Simple Calculator\Simple Calculator\bin\Debug\Simple Calculator.exe
+C:\Users\boris\Documents\Visual Studio 2017\Projects\C#\Simple Calculator\Simple Calculator\bin\Debug\Simple Calculator.pdb
+C:\Users\boris\Documents\Visual Studio 2017\Projects\C#\Simple Calculator\Simple Calculator\obj\Debug\Simple Calculator.csprojResolveAssemblyReference.cache
+C:\Users\boris\Documents\Visual Studio 2017\Projects\C#\Simple Calculator\Simple Calculator\obj\Debug\Simple_Calculator.Properties.Resources.resources
+C:\Users\boris\Documents\Visual Studio 2017\Projects\C#\Simple Calculator\Simple Calculator\obj\Debug\Simple Calculator.csproj.GenerateResource.Cache
+C:\Users\boris\Documents\Visual Studio 2017\Projects\C#\Simple Calculator\Simple Calculator\obj\Debug\Simple Calculator.exe
+C:\Users\boris\Documents\Visual Studio 2017\Projects\C#\Simple Calculator\Simple Calculator\obj\Debug\Simple Calculator.pdb
+C:\Users\boris\Documents\Visual Studio 2017\Projects\C#\Simple Calculator\Simple Calculator\obj\Debug\Simple_Calculator.Form1.resources
+C:\Users\boris\Documents\Visual Studio 2017\Projects\C#\Simple Calculator\Simple Calculator\bin\Debug\Simple Calculator.exe.CodeAnalysisLog.xml
+C:\Users\boris\Documents\Visual Studio 2017\Projects\C#\Simple Calculator\Simple Calculator\bin\Debug\Simple Calculator.exe.lastcodeanalysissucceeded
